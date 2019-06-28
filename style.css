@@ -1,0 +1,33 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+  
+
+h1 {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+    background: '#777';
+    width: '960px';
+    font-size: '18px';
+}
+h1, nav, section, aside, footer {
+background: '#ebebeb'
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+    background: '#777';
+    width: '960px';
+    font-size: '18px';
+}
+
+section {
+    float: left;
+}
+
+aside {
+    float: left;
+}
