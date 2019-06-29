@@ -40,7 +40,7 @@ background: #ebebeb;
 }
 
 nav {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     height: 80px;
     padding: 30px;
     width: 960px;
@@ -72,7 +72,7 @@ section {
     color: #ebebeb;
     font-size: 18px;
     font-weight: normal;
-    line-height: 40px;
+    line-height: 30px;
 }
 
 h2 {
@@ -87,6 +87,7 @@ article {
     background: #777;
     text-align: center;
     margin: 5px;
+    margin-top: 25px;
     padding-top: 5px;
     height: 180px;
     line-height: 5px;
@@ -99,16 +100,21 @@ aside {
     text-align: center;
     font-size: 18px;
     font-weight: normal;
-    width: 435px;
+    width: 445px;
     height: 300px;
-    margin-bottom: 20px;
-    margin-left: 30px
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding-top: 20px;
 }
 
 h3 {
     color: #777;
     background: #ebebeb;
     font-size: 18px;
+    font-weight: normal;
+}
+
+h4 {
     font-weight: normal;
 }
 
